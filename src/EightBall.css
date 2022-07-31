@@ -1,0 +1,22 @@
+.EightBall {
+   margin: 50px;
+   display: flex;
+   flex-direction: column; 
+   border: 1px black solid;
+   align-items: center;
+   border-radius: 50%;
+}
+
+.EightBall-header {
+text-align: center;
+color: white;
+}
+
+.EightBall-answer-button {
+padding: 5em;
+margin: 5em;
+}
+
+.EightBall-instructions {
+    color : white;
+}
